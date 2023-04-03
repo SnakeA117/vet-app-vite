@@ -1,8 +1,8 @@
 const Header = () => {
   return (
     <h1 className="font-black text-5xl text-center md:w-1/2 mx-auto">      
-      <span className="text-indigo-600">Vet's </span>   
-      Patients Follow Up {''}
+      <span className="text-indigo-600">Patients</span>   
+      Follow Up {''}
     
     </h1> 
   )
